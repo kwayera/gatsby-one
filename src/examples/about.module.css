@@ -1,0 +1,13 @@
+.page{
+    color: rgb(178, 230, 36);
+}
+
+.page h1{
+    color: rgb(214, 25, 18);
+}
+
+.text{
+    text-transform: capitalize;
+    color: rgb(112, 58, 14);
+    background-color: rgb(190, 202, 156);
+}

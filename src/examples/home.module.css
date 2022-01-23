@@ -1,0 +1,13 @@
+.page{
+    color: rgb(243, 82, 19);
+}
+
+.page h1{
+    color: darkorchid;
+}
+
+.text{
+    text-transform: capitalize;
+    color: rgb(41, 16, 179);
+    background-color: darkturquoise;
+}
